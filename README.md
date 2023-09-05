@@ -8,5 +8,6 @@ where we added "type": "module"; on the top of "dependencies".
 --> And before all of the above steps we installed 2 main packages, inquirer & qr-image. Since we're creating a  QR-generator.
 
 
-
+For running the code we simply going to add node index.js on the current folder. Then, a prompt is going to popup on screen asking 
+URL, and there we only have to add url of any website. And the program is going to create a qr-image, and text file of the url you entered.
 
